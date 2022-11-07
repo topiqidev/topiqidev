@@ -1,7 +1,7 @@
 {
    "Ads":[
       {
-         "select_main_ads":"IRON",
+         "select_main_ads":"ADMOB",
          "select_backup_ads":"null",
          "main_ads_banner":"DefaultBanner",
          "main_ads_intertitial":"DefaultInterstitial",
@@ -69,54 +69,6 @@
          "image":"https://archive.org/download/modsebusmboisss/Haryan%20Caposta%20JB3ss.jpg",
          "link_mods":"https://archive.org/download/ModBusMbois/JB3%2B%20SHD%20HINO%20RK.bussidmod",
          "link_livery":"https://archive.org/download/ModBusMbois/CAPOLISTA%20NEW%20STYLE%20VERSI%20JB3%20SHD%20HINO%20N2%20BY%20GARASI%20TUBE.png"
-      },
-      {
-         "title":"Khatulistiwa JB3",
-         "image":"https://archive.org/download/modsebusmboisss/Khatulistiwa%20JB3ss.jpg",
-         "link_mods":"https://archive.org/download/ModBusMbois/JB3%20DC.bussidmod",
-         "link_livery":"https://archive.org/download/ModBusMbois/Khatulistiwa%20Trans%20Dream%20Coach%20Blahbloh.png"
-      },
-      {
-         "title":"Lur Agung Djaja Pro",
-         "image":"https://archive.org/download/modsebusmboisss/Lur%20Agung%20Djaja%20Pross.jpg",
-         "link_mods":"https://archive.org/download/ModBusMbois/NEW%20PROTEUS.bussidmod",
-         "link_livery":"https://archive.org/download/ModBusMbois/Lj%20Lawas%20Pribados%20By%20Jack%20Lebbell.png"
-      },
-      {
-         "title":"MTrans Avan",
-         "image":"https://archive.org/download/modsebusmboisss/MTrans%20Avanss.jpg",
-         "link_mods":"https://archive.org/download/ModBusMbois/AVANTE%20H8%281%29.bussidmod",
-         "link_livery":"https://archive.org/download/ModBusMbois/M%20Trans%20Avante%20H8%20Blahbloh.png"
-      },
-      {
-         "title":"Murni Djaja HDD",
-         "image":"https://archive.org/download/modsebusmboisss/Murni%20Djaja%20HDDss.jpg",
-         "link_mods":"https://archive.org/download/ModBusMbois/HDD.bussidmod",
-         "link_livery":"https://archive.org/download/ModBusMbois/Murni%20Jaya%20Jemblem%20159%20Blahbloh.png"
-      },
-      {
-         "title":"Putri PLangi JB3",
-         "image":"https://archive.org/download/modsebusmboisss/Putri%20PLangi%20JB3ss.jpg",
-         "link_mods":"https://archive.org/download/ModBusMbois/JB3%2B%20SHD%20MERCY%200500R.bussidmod",
-         "link_livery":"https://archive.org/download/ModBusMbois/Putra%20Pelangi%20O500R%20by%20Blahbloh.png"
-      },
-      {
-         "title":"One Nusa SR2",
-         "image":"https://archive.org/download/modsebusmboisss/One%20Nusa%20SR2ss.jpg",
-         "link_mods":"https://archive.org/download/ModBusMbois/SR2%20XHD%20PRIME.bussidmod",
-         "link_livery":"https://archive.org/download/ModBusMbois/Livery%20Satu%20Nusa%20SR2%20XHD%20Scania.png"
-      },
-      {
-         "title":"Sempati Star UHD",
-         "image":"https://archive.org/download/modsebusmboisss/Sempati%20Star%20UHDss.jpg",
-         "link_mods":"https://archive.org/download/ModBusMbois/UHD.bussidmod",
-         "link_livery":"https://archive.org/download/ModBusMbois/SEMPATI%20STAR%20ERDOGAN%20NON%20BONEKA%20JB3%20UHD%20By%20GARASI%20TUBE.png"
-      },
-      {
-         "title":"Setyo Usaha",
-         "image":"https://archive.org/download/modsebusmboisss/Setyo%20Usahass.jpg",
-         "link_mods":"https://archive.org/download/ModBusMbois/Single%20Glass%20Hino%20AK%20MN%20Art.bussidmod",
-         "link_livery":"https://archive.org/download/ModBusMbois/paradeartis%20setia%20usaha%20by%20jhojhophai.png"
       },
       {
          "title":"Tran Express JB3",
