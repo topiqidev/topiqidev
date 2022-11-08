@@ -1,11 +1,11 @@
 {
    "Ads":[
       {
-         "select_main_ads":"ADMOB",
+         "select_main_ads":"IRON",
          "select_backup_ads":"null",
          "main_ads_banner":"DefaultBanner",
          "main_ads_intertitial":"DefaultInterstitial",
-         "main_native_for_admob_applovin":"",
+         "main_native_for_admob_applovin":"ca",
          "backup_native_for_admob_applovin":"",
          "backup_ads_banner":"",
          "backup_ads_intertitial":"",
@@ -75,6 +75,42 @@
          "image":"https://archive.org/download/mod-truk-polis-ppss/Mod%20Truk%20Polis%20PPss.jpg",
          "link_mods":"https://archive.org/download/modmobilpolisi/Canter%20Polisi%20Varian%203.bussidmod",
          "link_livery":"https://archive.org/download/modmobilpolisi/Template%20Canter%20Polisi.png"
+      },
+      {
+         "title":"Money Truck Polis",
+         "image":"https://archive.org/download/mod-truk-polis-ppss/Money%20Truck%20Polisss.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/trukcanterbi.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Pazer Polisi",
+         "image":"https://archive.org/download/mod-truk-polis-ppss/Pazer%20Polisiss.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/Pajero2017.bussidmod",
+         "link_livery":"https://archive.org/download/modmobilpolisi/1%20fix.png"
+      },
+      {
+         "title":"Polis Evo",
+         "image":"https://archive.org/download/mod-truk-polis-ppss/Polis%20Evoss.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/Lance%20Evo%20X%20Polisi%20by%20MAH%20Channel.bussidmod",
+         "link_livery":"https://archive.org/download/modmobilpolisi/PATWAL.png"
+      },
+      {
+         "title":"Sertada Polis White",
+         "image":"https://archive.org/download/mod-truk-polis-ppss/Sertada%20Polis%20Whitess.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/l200.bussidmod",
+         "link_livery":"https://archive.org/download/modmobilpolisi/1588778140420.png"
+      },
+      {
+         "title":"Truk Polisi Terpal",
+         "image":"https://archive.org/download/mod-truk-polis-ppss/Truk%20Polisi%20Terpalss.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/Canter%20Polisi%20Varian%201%20full%20penutup.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "title":"Water Canon 2",
+         "image":"https://archive.org/download/mod-truk-polis-ppss/Water%20Canon%202ss.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/Truk%20Water%20Canon%20Polisi%20driver.bussidmod",
+         "link_livery":"null"
       }
    ]
 }
