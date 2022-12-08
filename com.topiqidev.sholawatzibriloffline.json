@@ -37,16 +37,16 @@
   "Data": [
     {
       "id":1,
-      "name_category": "Sholawat Jibril Cover Merdu",
-      "title":"Allahul Kafi Robbunal Kafi 1",
+      "name_category": "Sholawat Zibril",
+      "title":"Sholawat Jibril Cover",
       "image":"file:///android_asset/image/icon.png",
       "link_mp3":"mp3/sholawatjibrilcover.mp3",
       "lyrics":""
     },
     {
       "id":2,
-      "name_category": "Sholawat Jibril Cover Violin",
-      "title":"Allahul Kafi Robbunal Kafi 2",
+      "name_category": "Sholawat Zibril",
+      "title":"Sholawat Jibril Cover Merdu",
       "image":"file:///android_asset/image/icon.png",
       "link_mp3":"mp3/sholawatjibrilcovermerdu.mp3",
       "lyrics":""
@@ -54,7 +54,7 @@
     {
       "id":3,
       "name_category": "Sholawat Zibril",
-      "title":"Sholawat Jibril Cover",
+      "title":"Sholawat Jibril Cover Violin",
       "image":"file:///android_asset/image/icon.png",
       "link_mp3":"mp3/sholawatjibrilcoverviolin.mp3",
       "lyrics":""
@@ -86,7 +86,7 @@
     {
       "id":7,
       "name_category": "Sholawat Zibril",
-      "title":"Sholawat Merdu Mughrom",
+      "title":"Huwannur Cover",
       "image":"file:///android_asset/image/icon.png",
       "link_mp3":"mp3/more/huwannurcover.mp3",
       "lyrics":""
@@ -118,7 +118,7 @@
     {
       "id":11,
       "name_category": "Sholawat Zibril",
-      "title":"Huwannur Cover",
+      "title":"Sholawat Merdu Mughrom",
       "image":"file:///android_asset/image/icon.png",
       "link_mp3":"mp3/more/sholawatmerdumughrom.mp3",
       "lyrics":""
