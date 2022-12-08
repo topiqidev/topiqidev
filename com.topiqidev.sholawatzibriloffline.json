@@ -1,0 +1,143 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Sholawat Zibril",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id":1,
+      "name_category": "Sholawat Jibril Cover Merdu",
+      "title":"Allahul Kafi Robbunal Kafi 1",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/sholawatjibrilcover.mp3",
+      "lyrics":""
+    },
+    {
+      "id":2,
+      "name_category": "Sholawat Jibril Cover Violin",
+      "title":"Allahul Kafi Robbunal Kafi 2",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/sholawatjibrilcovermerdu.mp3",
+      "lyrics":""
+    },
+    {
+      "id":3,
+      "name_category": "Sholawat Zibril",
+      "title":"Sholawat Jibril Cover",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/sholawatjibrilcoverviolin.mp3",
+      "lyrics":""
+    },
+    {
+      "id":4,
+      "name_category": "Sholawat Zibril",
+      "title":"Sholawat Jibril Merdu Versi Akustik",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/sholawatjibrilmerduversiakustik.mp3",
+      "lyrics":""
+    },
+    {
+      "id":5,
+      "name_category": "Sholawat Zibril",
+      "title":"Sholawat Jibril Penyejuk Hati",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/sholawatjibrilpenyejukhati.mp3",
+      "lyrics":""
+    },
+    {
+      "id":6,
+      "name_category": "Sholawat Zibril",
+      "title":"Sholawat Jibril Plus Puisi",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/sholawatjibrilpluspuisi.mp3",
+      "lyrics":""
+    },
+    {
+      "id":7,
+      "name_category": "Sholawat Zibril",
+      "title":"Sholawat Merdu Mughrom",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/more/huwannurcover.mp3",
+      "lyrics":""
+    },
+    {
+      "id":8,
+      "name_category": "Sholawat Zibril",
+      "title":"Shalawat Nariyah Bikin Adem",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/more/shalawatnariyahbikinadem.mp3",
+      "lyrics":""
+    },
+    {
+      "id":9,
+      "name_category": "Sholawat Zibril",
+      "title":"Sholawat Asyghil Cover",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/more/sholawatasyghilcover.mp3",
+      "lyrics":""
+    },
+    {
+      "id":10,
+      "name_category": "Sholawat Zibril",
+      "title":"Sholawat Indal Fajri Versi Hadroh",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/sholawatindalfajriversihadroh.mp3",
+      "lyrics":""
+    },
+    {
+      "id":11,
+      "name_category": "Sholawat Zibril",
+      "title":"Huwannur Cover",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/more/sholawatmerdumughrom.mp3",
+      "lyrics":""
+    },
+    {
+      "id":12,
+      "name_category": "Sholawat Zibril",
+      "title":"Ya Robbi Antal Hadi",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/more/yarobbiantalhadi.mp3",
+      "lyrics":""
+    },
+    {
+      "id":13,
+      "name_category": "Sholawat Zibril",
+      "title":"Yasirlana",
+      "image":"file:///android_asset/image/icon.png",
+      "link_mp3":"mp3/more/yasirlana.mp3",
+      "lyrics":""
+    }
+  ]
+}
