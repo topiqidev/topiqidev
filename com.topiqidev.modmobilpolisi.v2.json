@@ -1,0 +1,149 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"IRON",
+         "select_backup_ads":"null",
+         "main_ads_banner":"ca",
+         "main_ads_intertitial":"ca",
+         "main_native_ads_Admob_or_applovin":"",
+         "main_ads_rewards":"",
+         "backup_native_ads_Admob_or_applovin":"",
+         "backup_ads_banner":"",
+         "backup_ads_intertitial":"",
+         "backup_ads_rewards":"",
+         "interval_intertitial":5,
+         "initialize_sdk":"",
+         "initialize_sdk_backup_ads":"",
+         "survey_api_key":"0ba28219-96db-4379-b547-8682187253da",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "DATA":[
+      {
+         "id":1,
+         "category":"POLISI",
+         "title":"Mobil Baracuda Polis",
+         "image":"https://topiqidevsos.files.wordpress.com/2022/12/mobil-baracuda-polisss.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/BARRACUDA%20BRIMOB.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":2,
+         "category":"POLISI",
+         "title":"Mobil Panser Anoa",
+         "image":"https://topiqidevsos.files.wordpress.com/2022/12/mobil-panser-anoass.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/PANSERANOAbyAMB.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":3,
+         "category":"POLISI",
+         "title":"Mobil Pathwal",
+         "image":"https://topiqidevsos.files.wordpress.com/2022/12/mobil-pathwalss.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/C63%20GLOSSY.bussidmod",
+         "link_livery":"https://archive.org/download/modmobilpolisi/Mercy%20peter%20c%20rsm%20sabhara%20by%20rxd.png"
+      },
+      {
+         "id":4,
+         "category":"POLISI",
+         "title":"Mobil Pathwal Njess",
+         "image":"https://topiqidevsos.files.wordpress.com/2022/12/mobil-pathwal-njessss.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/HONDAJZZMOD.bussidvehicle",
+         "link_livery":"https://archive.org/download/modmobilpolisi/polisi.png"
+      },
+      {
+         "id":5,
+         "category":"POLISI",
+         "title":"Mobil Pathwal Ras",
+         "image":"https://topiqidevsos.files.wordpress.com/2022/12/mobil-pathwal-rasss.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/Toyota%20Rush%20New%20.bussidmod",
+         "link_livery":"https://archive.org/download/modmobilpolisi/Livery%20Patwal%20by%20GAG%20productions%20reborn-picsay.png"
+      },
+      {
+         "id":6,
+         "category":"POLISI",
+         "title":"Mobil Pathwal White",
+         "image":"https://topiqidevsos.files.wordpress.com/2022/12/mobil-pathwal-whitess.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/C63%20GLOSSY%281%29.bussidmod",
+         "link_livery":"https://archive.org/download/modmobilpolisi/PJR%20MERCY%20PETER%20C%20CVT%20RSM%20V2%20BY%20RIPKI.png"
+      },
+      {
+         "id":7,
+         "category":"POLISI",
+         "title":"Mobil Water Canon",
+         "image":"https://topiqidevsos.files.wordpress.com/2022/12/mobil-water-canonss.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/WATER%20CANON.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":8,
+         "category":"POLISI",
+         "title":"Mod Truk Brim",
+         "image":"https://topiqidevsos.files.wordpress.com/2022/12/mod-truk-brimss.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/BRIMOB%20BY%20ZILLA%20%28SUBSCRIBE%21%21%29.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":9,
+         "category":"POLISI",
+         "title":"Mod Truk Polis PP",
+         "image":"https://topiqidevsos.files.wordpress.com/2022/12/mod-truk-polis-ppss.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/Canter%20Polisi%20Varian%203.bussidmod",
+         "link_livery":"https://archive.org/download/modmobilpolisi/Template%20Canter%20Polisi.png"
+      },
+      {
+         "id":10,
+         "category":"POLISI",
+         "title":"Money Truck Polis",
+         "image":"https://topiqidevsos.files.wordpress.com/2022/12/money-truck-polisss.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/trukcanterbi.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":11,
+         "category":"POLISI",
+         "title":"Pazer Polisi",
+         "image":"https://topiqidevsos.files.wordpress.com/2022/12/pazer-polisiss.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/Pajero2017.bussidmod",
+         "link_livery":"https://archive.org/download/modmobilpolisi/1%20fix.png"
+      },
+      {
+         "id":12,
+         "category":"POLISI",
+         "title":"Polis Evo",
+         "image":"https://topiqidevsos.files.wordpress.com/2022/12/polis-evoss.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/Lance%20Evo%20X%20Polisi%20by%20MAH%20Channel.bussidmod",
+         "link_livery":"https://archive.org/download/modmobilpolisi/PATWAL.png"
+      },
+      {
+         "id":13,
+         "category":"POLISI",
+         "title":"Sertada Polis White",
+         "image":"https://topiqidevsos.files.wordpress.com/2022/12/sertada-polis-whitess.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/l200.bussidmod",
+         "link_livery":"https://archive.org/download/modmobilpolisi/1588778140420.png"
+      },
+      {
+         "id":14,
+         "category":"POLISI",
+         "title":"Truk Polisi Terpal",
+         "image":"https://topiqidevsos.files.wordpress.com/2022/12/truk-polisi-terpalss.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/Canter%20Polisi%20Varian%201%20full%20penutup.bussidmod",
+         "link_livery":"null"
+      },
+      {
+         "id":15,
+         "category":"POLISI",
+         "title":"Water Canon 2",
+         "image":"https://topiqidevsos.files.wordpress.com/2022/12/water-canon-2ss.jpg",
+         "link_mods":"https://archive.org/download/modmobilpolisi/Truk%20Water%20Canon%20Polisi%20driver.bussidmod",
+         "link_livery":"null"
+      }
+   ]
+}
